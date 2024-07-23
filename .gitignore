@@ -1,0 +1,67 @@
+# Ignore file log và các file tạm thời
+*.log
+*.tmp
+*.bak
+
+# Ignore thư mục build và các thư mục tạm thời
+/target/
+/out/
+/build/
+/node_modules/
+/.idea/
+
+# Ignore file cài đặt của các IDE và editor
+.classpath
+.project
+.settings/
+.idea/
+
+# Ignore các file cấu hình hệ điều hành và công cụ
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore các file phụ thuộc và cài đặt của npm và Maven
+npm-debug.log
+package-lock.json
+.yarn/
+
+# Ignore các file build của Android Studio
+/app/build/
+
+# Ignore file cài đặt của Visual Studio
+*.suo
+*.user
+
+
+# Ignore các file sau khi đã cài đặt
+/setup/
+
+# Ignore file temporary của các trình biên dịch
+*.swp
+*.DS_Store?
+
+# Ignore file dự án tham khảo
+project.properties
+.gradle
+
+# Ignore các file tạm thời và backup của trình soạn thảo
+*~
+
+# Ignore file log của trình ghi lỗi
+error.log
+
+# Ignore file build của các ứng dụng đa nền tảng
+x64/
+x86/
+*.dll
+*.so
+*.dylib
+
+# Ignore file cấu hình của hệ điều hành
+*.manifest
+*.dep
+*.manifest.xml
+*.tmp
+*.bak
+
