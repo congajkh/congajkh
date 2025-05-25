@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/your-avatar-id](https://th.bing.com/th/id/OIP.9kptswJQwGGDEa7hVeYPPQAAAA?cb=iwp2&rs=1&pid=ImgDetMain)" alt="Cong AJKH Avatar" width="150" />
+  <img src="https://th.bing.com/th/id/OIP.9kptswJQwGGDEa7hVeYPPQAAAA?cb=iwp2&rs=1&pid=ImgDetMain" alt="Cong AJKH Avatar" width="150" />
 </p>
 
 <p align="center">
