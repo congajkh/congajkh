@@ -1,9 +1,4 @@
 <h1 align="center">✨ Xin chào! Mình là Công_Orin ✨</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
 <p align="center">
   <img src="https://th.bing.com/th/id/OIP.9kptswJQwGGDEa7hVeYPPQAAAA?cb=iwp2&rs=1&pid=ImgDetMain" alt="Cong AJKH Avatar" width="150" />
 </p>
