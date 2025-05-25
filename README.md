@@ -23,7 +23,7 @@ Mình tin rằng **công nghệ không chỉ để học, mà để tạo ra gi�
 - 🛠️ Đang học: `Java`, `Spring Boot`, `Python`, `AI`, `SQL`
 - 💭 Sở thích: Lập trình, thiết kế hệ thống, nghiên cứu AI ứng dụng
 - 💌 Liên hệ: **docong989@gmail.com**
-S
+
 ---
 
 ## 📌 Dự án tâm huyết
