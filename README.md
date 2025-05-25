@@ -22,8 +22,8 @@ Mình tin rằng **công nghệ không chỉ để học, mà để tạo ra gi�
 - 🎯 Mục tiêu: Trở thành một developer giỏi, xây những sản phẩm hữu ích cho cộng đồng
 - 🛠️ Đang học: `Java`, `Spring Boot`, `Python`, `AI`, `SQL`
 - 💭 Sở thích: Lập trình, thiết kế hệ thống, nghiên cứu AI ứng dụng
-- 💌 Liên hệ: **congajkh@gmail.com**
-
+- 💌 Liên hệ: **docong989@gmail.com**
+S
 ---
 
 ## 📌 Dự án tâm huyết
@@ -70,14 +70,14 @@ Khám phá thêm các dự án và nghiên cứu của mình tại [Portfolio c�
 
 > “Lập trình không phải chỉ là code – đó là tư duy, là giải pháp, là nghệ thuật.”
 
-🎵 Khi không code, mình thích nghe nhạc chill và suy ngẫm về... kiến trúc phần mềm 😄  
-📖 Mình thích đọc sách công nghệ, phát triển bản thân và thiền một chút mỗi tối.
+🎵 Khi không code, mình thích nghe nhạc chill và suy ngẫm về... tình yêu 😄  
+📖 Mình thích đọc sách doraemon, phát triển bản thân và nghe nhạc một chút mỗi tối.
 
 ---
 
 ## 📬 Kết nối với mình
 
-- 📧 Gmail: **congajkh@gmail.com**
+- 📧 Gmail: **docong989@gmail.com**
 - 🌐 GitHub: [github.com/congajkh](https://github.com/congajkh)
 
 ---
